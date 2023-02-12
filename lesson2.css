@@ -1,6 +1,6 @@
 .odd {
     background: lightpink;
-    font-family: verdana, DejaVu Sans, sans-serif;
+    font-family: verdana, 'DejaVu Sans', sans-serif;
 }
 #two {
     color: blue;
@@ -17,4 +17,15 @@
 .space{
     background: white;
     margin: 20px;
+}
+.btn1, .btn2 {
+   font-size: 28px;
+   font-family: Helvetica, 'Times New Roman', sans-serif; 
+} 
+.btn1 {
+    background: black;
+    color: white;
+}
+.btn2 {
+    background: yellow;
 }
