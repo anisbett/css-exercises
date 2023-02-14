@@ -1,0 +1,26 @@
+h1 {
+    font-size: 16px;
+}
+
+h1, .content, .button-container {
+    margin: 8px;
+    background: lightblue;
+}
+button {
+    display: block;
+    padding: 8px 24px;
+    margin: 0 auto;
+}
+title {
+
+}
+.button-container {
+    padding: 8px;
+    text-align: center;
+}
+.content {
+    padding: 16px 8px 8px 16px;
+}
+.card {
+    padding: 8px;
+}
